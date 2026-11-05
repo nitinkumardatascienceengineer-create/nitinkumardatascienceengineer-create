@@ -1,66 +1,118 @@
+Hi, I'm Nitin Kumar
 
-# Hi, I'm Nitin Kumar 👋
+Aspiring Data Scientist | Machine Learning Enthusiast | Python Developer
 
-### Aspiring Data Scientist | Machine Learning | Deep Learning | Data Analytics
+I am a BCA student passionate about Data Science, Machine Learning, and Artificial Intelligence. I enjoy working with data, building predictive models, developing AI-powered applications, and solving real-world problems through technology.
 
-I enjoy turning raw data into meaningful insights and building
-machine learning solutions to solve real-world problems.
+Currently, I am strengthening my knowledge of Machine Learning, Deep Learning, NLP, and Generative AI while building practical end-to-end projects.
 
-- 🔭 Currently working on: [Your Current Project]
-- 🌱 Learning: Deep Learning, PyTorch, and Model Deployment
-- 🛠️ Tools: Python, SQL, Pandas, NumPy, Scikit-learn
-- 📊 Interests: Machine Learning, Data Analysis, AI
-- 💼 Connect with me: [LinkedIn](YOUR_LINKEDIN_URL)
+Technical Skills
 
----
+Programming Languages
 
-## 🧰 Technical Skills
+Python
 
-**Languages:** Python, SQL, C++
+SQL
 
-**Data Analysis:** Pandas, NumPy, Matplotlib, Seaborn
+C++
 
-**Machine Learning:** Scikit-learn, XGBoost, LightGBM, CatBoost
+Data Analysis & Visualization
 
-**Deep Learning:** PyTorch,ANN,CNN,RNN,NLP,Transformers,RAG
+NumPy
 
-**Tools:** Git, GitHub, Jupyter Notebook
+Pandas
 
----
+Matplotlib
 
-## 🚀 Featured Projects
+Seaborn
 
-### 1. Loan Default Prediction
-Predict loan defaults using machine learning classification models.
+Plotly
 
-- Techniques: Data preprocessing, feature engineering, model tuning
-- Models: LightGBM and other classification algorithms
-- [View Project](YOUR_REPOSITORY_URL)
+Machine Learning
 
-### 2. Telecom Customer Churn Prediction
-Analyze customer churn and build models to identify customers
-who may discontinue their service.
+Scikit-learn
 
-- Techniques: EDA, feature selection, model evaluation
-- [View Project](YOUR_REPOSITORY_URL)
+LightGBM
 
-### 3. Your Next Project
-Describe the problem, your solution, and the results.
+XGBoost
 
-- Technologies: Add your actual tools
-- [View Project](YOUR_REPOSITORY_URL)
+CatBoost
 
----
+Feature Engineering
 
-## 📈 GitHub Activity
+Model Evaluation & Hyperparameter Tuning
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=github_dark)
+Deep Learning & AI
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=github_dark)
+PyTorch
 
----
+TensorFlow
 
-## 🤝 Let's Connect
+NLP
 
-[LinkedIn]([YOUR_LINKEDIN_URL](https://www.linkedin.com/in/nitin-kumar-643016413/)) ·
-[GitHub]([https://github.com/YOUR_USERNAME](https://github.com/nitinkumardatascienceengineer-create))
+RAG (Retrieval-Augmented Generation)
+
+LangChain
+
+Hugging Face
+
+OpenAI Embeddings
+
+Development & Deployment
+
+Streamlit
+
+FastAPI
+
+Docker
+
+Git & GitHub
+
+Jupyter Notebook
+
+PostgreSQL
+
+Featured Projects
+
+1. Vedi PDF Chatbot
+
+An AI-powered PDF chatbot that allows users to interact with PDF documents and retrieve relevant information using a conversational interface.
+
+Technologies: Python, Streamlit, Gemini API, RAG
+
+View Repository
+
+2. Sentiment Analysis
+
+A Deep Learning-based sentiment analysis application built using PyTorch. Trained on the IMDb movie review dataset to classify text reviews based on their sentiment.
+
+Technologies: Python, PyTorch, NLP, Streamlit
+
+View Repository | Live Demo
+
+3. Loan Default Prediction
+
+A Machine Learning classification project focused on predicting loan defaults using financial and customer-related features.
+
+Technologies: Python, Pandas, Scikit-learn, LightGBM, SHAP
+
+4. Telecom Customer Churn Prediction
+
+An end-to-end Machine Learning project focused on identifying customers who are likely to discontinue telecom services.
+
+Technologies: Python, Pandas, Scikit-learn, XGBoost, CatBoost
+
+Currently Learning
+
+Advanced Machine Learning
+
+Deep Learning with PyTorch
+
+Natural Language Processing
+
+Generative AI and RAG Applications
+
+Model Deployment and MLOps
+GitHub: nitinkumardatascienceengineer-create
+
+Always learning, building, and exploring the world of Data Science and AI.
